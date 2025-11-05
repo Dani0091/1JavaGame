@@ -13,6 +13,6 @@
         </HBox>
     </top>
     <center>
-        <Pane fx:id="gamePane" style="-fx-background-color: white;" />
+        <Pane fx:id="gamePane" style="-fx-background-color: #0f0f0f;" />
     </center>
 </BorderPane>
