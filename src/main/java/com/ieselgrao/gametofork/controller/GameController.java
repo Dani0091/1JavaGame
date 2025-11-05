@@ -1,9 +1,4 @@
 package com.ieselgrao.gametofork.controller;
-import javafx.animation.TranslateTransition;
-import javafx.animation.FadeTransition;
-import javafx.animation.ScaleTransition;
-import javafx.animation.ParallelTransition;
-import javafx.util.Duration;
 import com.ieselgrao.gametofork.model.GameModel;
 import com.ieselgrao.gametofork.MainApplication;
 import javafx.animation.AnimationTimer;
