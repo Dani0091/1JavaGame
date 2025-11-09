@@ -41,7 +41,8 @@ En primer lugar he instalado y configurado [GitKraken](https://www.gitkraken.com
    # Configurar upstream para futuros pushes
    git branch --set-upstream-to=1JavaGame/main NewDaniBranch
 
-   ## Uso de la IA generativa
+
+7. **Uso de la IA generativa**  
 
 En este caso se ha utilizado:
 
